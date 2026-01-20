@@ -11,7 +11,7 @@
 
 ### [Botix](https://github.com/KiraFlux/Botix)
 
-Открытая платформа для образовательной мобильной робототехники
+Модульная платформа для создания мобильных роботов с использованием 3D-печати и лазерной резки.
 
 </blockquote>
 
@@ -27,7 +27,7 @@
 
 ### [flix](https://github.com/KiraFlux/flix)
 
-Форк [`okalachev/flix`](https://github.com/okalachev/flix) образовательного мини-квадрокоптера на ESP32. Активная разработка в ветке [`klyax`](https://github.com/KiraFlux/flix/tree/klyax)
+Форк [`okalachev/flix`](https://github.com/okalachev/flix) образовательного мини-квадрокоптера на ESP32. Разработка в ветке [`klyax`](https://github.com/KiraFlux/flix/tree/klyax)
 
 Любительская версия: [Klyax](https://github.com/KiraFlux/Klyax) - работа над CAD моделью дрона
 
@@ -35,30 +35,20 @@
 
 ---
 
-<sub>Недоделан, заморожен, но оттаивает:</sub>
-
 <blockquote>
 
-### [ByteLang](https://github.com/KiraFlux/ByteLang)
+### **[KiraFlux-ToolBox](https://github.com/KiraFlux/KiraFlux-ToolBox)**
 
-Компактный конфигурируемый язык, компилируемый в байт-код, для встроенных систем и протоколов связи
+C++ библиотека для embedded (AVR/ESP32).
 
 </blockquote>
 
 ---
 
-<details>
-<summary><strong>Мои библиотеки для ESP32</strong></summary>
+<blockquote>
 
-- **[KiraFlux-ToolBox](https://github.com/KiraFlux/KiraFlux-ToolBox)** - набор инструментов для разработки
-- **[KiraFlux-UI](https://github.com/KiraFlux/KiraFlux-UI)** - минималистичный UI фреймворк
-- **[KiraFlux-GFX](https://github.com/KiraFlux/KiraFlux-GFX)** - графическая библиотека
-- **[KiraFlux-OLED](https://github.com/KiraFlux/KiraFlux-OLED)** - легкий драйвер SSD1306
-- **[Fresh-EspNow](https://github.com/KiraFlux/Fresh-EspNow)** - современная обёртка для ESP-NOW
-- **[ByteLang-Bridge](https://github.com/KiraFlux/ByteLang-Bridge)** - настраиваемый P2P протокол связи по последовательному порту
+### [MizLang](https://github.com/KiraFlux/MizLang)
 
----
+Экспериментальный язык.
 
-Создаю модульный и документированный код для практического применения в образовательных проектах
-
-</details>
+</blockquote>
