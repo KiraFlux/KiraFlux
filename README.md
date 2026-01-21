@@ -33,17 +33,13 @@
 
 </blockquote>
 
----
-
 <blockquote>
 
-### **[KiraFlux-ToolBox](https://github.com/KiraFlux/KiraFlux-ToolBox)**
+### **[KiraFlux-ToolBox](https://github.com/KiraFlux/KiraFlux-Toolkit)**
 
 C++ библиотека для embedded (AVR/ESP32).
 
 </blockquote>
-
----
 
 <blockquote>
 
