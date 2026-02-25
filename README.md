@@ -2,7 +2,7 @@
 
 <details>
 <summary>>:3</summary>
-<sub>Презираю: Vibe Coding, AI-generated code slop, AI-Agent slop, потому что потому, всё кончается на "у"</sub>
+<sub>Oh no: "Презираю: Vibe Coding, AI-generated code slop, AI-Agent slop, потому что потому, всё кончается на "у" " - Что случилось?</sub>
 </details>
 
 ## Основные проекты
@@ -37,7 +37,8 @@
 
 ### **[KiraFlux-ToolBox](https://github.com/KiraFlux/KiraFlux-Toolkit)**
 
-C++ библиотека для embedded (AVR/ESP32).
+Разрабатываемый Библиотеко-видный набор инструментов в около современном вгляде на C++ для ESP32.
+Совсем не для """""Production""""", скорее как жвачка для мозгов, личных проектов.
 
 </blockquote>
 
