@@ -27,7 +27,7 @@
 
 ### [flix](https://github.com/KiraFlux/flix)
 
-Форк [`okalachev/flix`](https://github.com/okalachev/flix) образовательного мини-квадрокоптера на ESP32. Разработка в ветке [`klyax`](https://github.com/KiraFlux/flix/tree/klyax)
+Форк [`okalachev/flix`](https://github.com/okalachev/flix) образовательного мини-квадрокоптера на ESP32. [`dev/espnow`](https://github.com/KiraFlux/flix/tree/dev/espnow)
 
 Любительская версия: [Klyax](https://github.com/KiraFlux/Klyax) - работа над CAD моделью дрона
 
@@ -36,8 +36,7 @@
 <blockquote>
 
 ### **[KiraFlux-ToolBox](https://github.com/KiraFlux/KiraFlux-Toolkit)**
-
-C++17 фреймворк для ESP32, объединяющий графику, UI, драйверы и математику в единую систему. 
+C++17 фреймворк для ESP32, построенный на статическом полиморфизме (CRTP) и миксинах. Включает графический стек, UI с поддержкой аналоговых джойстиков, драйверы дисплеев (ST7735, SSD1306), сенсоров и моторов, а также математические фильтры и PID. 
 Разрабатывается для личных проектов, покрывается тестами и не претендует на production-готовность.
 
 </blockquote>
