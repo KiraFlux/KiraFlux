@@ -2,7 +2,7 @@
 
 <details>
 <summary>>:3</summary>
-<sub>Oh no: "Презираю: Vibe Coding, AI-generated code slop, AI-Agent slop, потому что потому, всё кончается на "у" " - Что случилось?</sub>
+<sub>Презираю: Vibe Coding, AI-generated code slop, AI-Agent slop - инженерную недобросовестность, замаскированную под эффективность; отказ от понимания, родственный вере.</sub>
 </details>
 
 ## Основные проекты
